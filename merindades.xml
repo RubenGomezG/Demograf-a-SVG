@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<merindades>
+	<merindad>
+		<nombre>Pamplona</nombre>
+		<poblacion>368129</poblacion>
+		<hombres>174508</hombres>
+		<mujeres>193621</mujeres>
+		<vascoparlantes>39197</vascoparlantes>
+	</merindad>
+	<merindad>
+		<nombre>Estella</nombre>
+		<poblacion>64252</poblacion>
+		<hombres>29795</hombres>
+		<mujeres>34457</mujeres>
+		<vascoparlantes>6895</vascoparlantes>
+	</merindad>
+	<merindad>
+		<nombre>Tudela</nombre>
+		<poblacion>98328</poblacion>
+		<hombres>49029</hombres>
+		<mujeres>49299</mujeres>
+		<vascoparlantes>7974</vascoparlantes>
+	</merindad>
+	<merindad>
+		<nombre>Sangüesa</nombre>
+		<poblacion>83912</poblacion>
+		<hombres>42765</hombres>
+		<mujeres>41147</mujeres>
+		<vascoparlantes>16120</vascoparlantes>
+	</merindad>
+	<merindad>
+		<nombre>Olite</nombre>
+		<poblacion>46576</poblacion>
+		<hombres>23548</hombres>
+		<mujeres>23028</mujeres>
+		<vascoparlantes>6209</vascoparlantes>
+	</merindad>
+</merindades>

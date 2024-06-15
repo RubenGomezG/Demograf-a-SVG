@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<anios>
+    <anio>
+        <numero>2019</numero>
+		<nacidos>5371</nacidos>
+
+    </anio>
+    <anio>
+        <numero>2018</numero>
+		<nacidos>5398</nacidos>
+
+    </anio>
+    <anio>
+        <numero>2017</numero>
+		<nacidos>5746</nacidos>
+
+    </anio>
+    <anio>
+        <numero>2016</numero>
+		<nacidos>5894</nacidos>
+
+    </anio>
+    <anio>
+        <numero>2015</numero>
+		<nacidos>6007</nacidos>
+
+    </anio>
+    <anio>
+        <numero>2014</numero>
+		<nacidos>6183</nacidos>
+
+    </anio>
+    <anio>
+        <numero>2013</numero>
+		<nacidos>6075</nacidos>
+
+    </anio>
+    <anio>
+        <numero>2012</numero>
+		<nacidos>6731</nacidos>
+
+    </anio>
+    <anio>
+        <numero>2011</numero>
+		<nacidos>6747</nacidos>
+
+    </anio>
+    <anio>
+        <numero>2010</numero>
+		<nacidos>6778</nacidos>
+
+    </anio>
+</anios>

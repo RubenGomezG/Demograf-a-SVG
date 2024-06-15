@@ -1,0 +1,23 @@
+coordenadas: Viana: 95, 388
+coordenadas: Baztán: 361, 107
+
+cx(coordenada Paint) = gx(coordenada real) * ax - tx
+cy(coordenadas Paint) = ty - gy(coordenadas real) * ay
+------------------------------------------------------------------------------
+
+Viana =
+    cx = 95  || cy = 388
+
+Baztán =
+    cx= 361  || cy = 107
+
+    361 = 43.15 * ax - tx
+    95 = 42.5 * ax - tx
+    266 = 0.65 * ax
+                                    ax = 409.23    tx = 17297
+
+    388 = ty - (-2.35) * ax
+    107 = ty - (-1.55) * ax
+    281 = 0.8 * ax
+
+                                    ax = 351.25     tx = -437.43
